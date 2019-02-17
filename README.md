@@ -10,4 +10,5 @@
 # Android Java libraries
      # Validation :
         1. AwesomeValidation ( https://github.com/thyrlian/AwesomeValidation )
+        2. Fingerprint ( https://github.com/OmarAflak/Fingerprint )
         
