@@ -11,4 +11,5 @@
      # Validation :
         1. AwesomeValidation ( https://github.com/thyrlian/AwesomeValidation )
         2. Fingerprint ( https://github.com/OmarAflak/Fingerprint )
+        3. Audio Recorder (https://android-arsenal.com/details/1/7522#!package)
         
