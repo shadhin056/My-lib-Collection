@@ -6,11 +6,8 @@
     # Alert :
         1. F0RIS sweet-alert-dialog ( https://github.com/F0RIS/sweet-alert-dialog )
     # ImagePicker with Cropper :
-        1. Dhaval2404 ImagePicker ( https://github.com/Dhaval2404/ImagePicker?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=7510 ) (Not Checked)
-        2. 
-        3. 
+        1. Dhaval2404 ImagePicker ( https://github.com/Dhaval2404/ImagePicker?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=7510 ) (Is Not Checked)
         
-
 # Android Java libraries
      # Validation :
         1. AwesomeValidation ( https://github.com/thyrlian/AwesomeValidation )
@@ -18,4 +15,7 @@
      # Audio Recorder (https://android-arsenal.com/details/1/7522#!package)
      # ImagePicker With Cropper:
         1. ArthurHub Android-Image-Cropper( https://android-arsenal.com/details/1/3487#!description )
+     # SilkySignature
+        1. SilkySignature ( https://android-arsenal.com/details/1/4746#!description )
+        2. FreeDrawView ( https://android-arsenal.com/details/1/4931#!description ) (Is Not Checked)
         
