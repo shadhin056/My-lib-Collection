@@ -18,4 +18,5 @@
      # SilkySignature
         1. SilkySignature ( https://android-arsenal.com/details/1/4746#!description )
         2. FreeDrawView ( https://android-arsenal.com/details/1/4931#!description ) (Is Not Checked)
+        3. GifLoading ( https://android-arsenal.com/details/1/7512 )
         
