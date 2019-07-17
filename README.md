@@ -21,4 +21,5 @@
         1. SilkySignature ( https://android-arsenal.com/details/1/4746#!description )
         2. FreeDrawView ( https://android-arsenal.com/details/1/4931#!description ) (Is Not Checked)
         3. GifLoading ( https://android-arsenal.com/details/1/7512 )
+        4. uCrop ( https://github.com/Yalantis/uCrop ) for Details https://www.androidhive.info/2019/02/android-choosing-image-camera-gallery-crop-functionality/
         
