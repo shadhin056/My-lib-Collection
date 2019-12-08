@@ -6,6 +6,10 @@
     # Alert :
         1. F0RIS sweet-alert-dialog ( https://github.com/F0RIS/sweet-alert-dialog )
         2. Lottie Alert Dialog ( https://android-arsenal.com/details/1/7557 )
+        3. Needs ( https://android-arsenal.com/details/1/7569 )
+        4. MaDialog Library ( https://android-arsenal.com/details/1/7755 )
+        5. DialogPlus ( https://android-arsenal.com/details/1/7899 )
+        6. FancyGifDialog ( https://android-arsenal.com/details/1/6652 )
     # ImagePicker with Cropper :
         1. Dhaval2404 ImagePicker ( https://github.com/Dhaval2404/ImagePicker?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=7510 ) (Is Not Checked)
      # Loading on Button :
