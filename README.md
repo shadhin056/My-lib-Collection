@@ -11,6 +11,7 @@
         4. MaDialog Library ( https://android-arsenal.com/details/1/7755 )
         5. DialogPlus ( https://android-arsenal.com/details/1/7899 )
         6. FancyGifDialog ( https://android-arsenal.com/details/1/6652 )
+        7. IOSDialog ( https://github.com/Samehadar/IOSDialog ) https://stackoverflow.com/questions/10311521/i-want-show-custom-dialog-like-iphone-hud-progress-bar
     # ImagePicker with Cropper :
         1. Dhaval2404 ImagePicker ( https://github.com/Dhaval2404/ImagePicker?utm_source=android-                           arsenal.com&utm_medium=referral&utm_campaign=7510 ) (Is Not Checked)
         2. ArthurHub Android-Image-Cropper( https://android-arsenal.com/details/1/3487#!description )
