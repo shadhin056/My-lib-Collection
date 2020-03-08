@@ -31,6 +31,7 @@
       # CircleProgress ( https://github.com/lzyzsd/CircleProgress )
       # Log ( https://github.com/orhanobut/logger )
       # Permission ( https://github.com/Karumi/Dexter )
+      # OTP Read ( https://github.com/WaveTechStudio/SMSRetrieverAPIMaster )
         
  # I Will Check
  1. Chip Navigation Bar ( https://android-arsenal.com/details/1/7707#!apk )
