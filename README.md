@@ -37,6 +37,7 @@
       # button Color shadow ( https://github.com/meetsl/SCardView-master )
       # monthyear ( https://github.com/dewinjm/monthyear-picker )
       # SiliCompressor ( https://github.com/Tourenathan-G5organisation/SiliCompressor )
+      # Compressor ( https://github.com/zetbaitsu/Compressor )
         
  # I Will Check
  1. Chip Navigation Bar ( https://android-arsenal.com/details/1/7707#!apk )
