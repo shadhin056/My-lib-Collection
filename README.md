@@ -4,6 +4,7 @@
     # Validation :
         1. Easy Validation  ( https://android-arsenal.com/details/1/7109 )
         2. AwesomeValidation ( https://github.com/thyrlian/AwesomeValidation )
+        
     # Alert :
         1. F0RIS sweet-alert-dialog ( https://github.com/F0RIS/sweet-alert-dialog )
         2. Lottie Alert Dialog ( https://android-arsenal.com/details/1/7557 )
@@ -46,5 +47,10 @@
  
  
  # IOS libraries
- https://cocoapods.org/pods/iOSDropDown
- https://github.com/sag333ar/SKRadioButton
+ 
+  # Validation :
+        1. https://cocoapods.org/pods/iOSDropDown
+        2. https://github.com/sag333ar/SKRadioButton
+        
+ 
+ 
