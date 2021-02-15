@@ -43,3 +43,7 @@
  # I Will Check
  1. Chip Navigation Bar ( https://android-arsenal.com/details/1/7707#!apk )
  2. Button shadow ( https://github.com/BluRe-CN/ComplexView )
+ 
+ 
+ # IOS libraries
+ https://cocoapods.org/pods/iOSDropDown
