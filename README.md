@@ -47,6 +47,7 @@
  
  
  # IOS libraries
+ https://github.com/TorIsHere/SignaturePad
  
   # Validation :
         1. https://cocoapods.org/pods/iOSDropDown
